@@ -37,15 +37,19 @@ Working with the “ChSe Decagon” data set increased our confidence when worki
 To conclude we found this project interesting albeit challenging due to the new ideas presented. We feel more confident in our ability to work with the snap framework and feel it has further expanded our general coding knowledge.
 ## Table of Figures
 
-Figure 1
+**Figure 1**
+
 ![figure11.png](images/figure11.png)
 ![figure12.png](images/figure12.png)
 
-Figure 2
+**Figure 2**
+
 ![figure2.png](images/figure2.png)
 
-Figure 3
+**Figure 3**
+
 ![figure3.png](images/figure3.png)
 
-Table 1
+**Table 1**
+
 ![table1.png](images/table1.png)
